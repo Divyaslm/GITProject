@@ -11,4 +11,13 @@ public class ClassB {
 	public void GreensProur() {
 		System.out.println("Prour");
 	}
+	public void Fruits() {
+        System.out.println("Fruits");
+}
+	public void Apple() {
+		System.out.println("Apple");
+	}
+	public void Orange() {
+		System.out.println("Orange");
+	}
 }
